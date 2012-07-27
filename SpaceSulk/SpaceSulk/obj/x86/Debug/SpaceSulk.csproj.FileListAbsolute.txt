@@ -1,6 +1,0 @@
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\SpaceSulk\SpaceSulk\bin\x86\Debug\SpaceSulk.exe
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\SpaceSulk\SpaceSulk\bin\x86\Debug\SpaceSulk.pdb
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\SpaceSulk\SpaceSulk\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\SpaceSulk\SpaceSulk\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\SpaceSulk\SpaceSulk\obj\x86\Debug\SpaceSulk.exe
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\SpaceSulk\SpaceSulk\obj\x86\Debug\SpaceSulk.pdb

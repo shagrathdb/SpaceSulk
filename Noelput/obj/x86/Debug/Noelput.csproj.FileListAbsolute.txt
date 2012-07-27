@@ -1,6 +1,0 @@
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\Noelput\bin\x86\Debug\Noelput.dll
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\Noelput\bin\x86\Debug\Noelput.pdb
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\Noelput\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\Noelput\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\Noelput\obj\x86\Debug\Noelput.dll
-C:\Users\Garviel Loken\Desktop\Teh Codes\SpaceSulk\Noelput\obj\x86\Debug\Noelput.pdb
